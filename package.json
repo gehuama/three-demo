@@ -1,0 +1,24 @@
+{
+  "name": "three-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gehuama/three-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.10.4",
+    "three": "^0.143.0"
+  }
+}

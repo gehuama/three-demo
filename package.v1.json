@@ -1,0 +1,20 @@
+{
+  "name": "three-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gehuama/three-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gehuama/three-demo/issues"
+  },
+  "homepage": "https://github.com/gehuama/three-demo#readme"
+}
